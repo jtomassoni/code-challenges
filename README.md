@@ -1,1 +1,1 @@
-#Each folder has a challenge with a solution and an explanation.
+# Each folder has a challenge with a solution and an explanation.
